@@ -127,3 +127,69 @@
 [2025-08-12 01:07:00] [DEBUG] Broadcasting to 1 total clients
 [2025-08-12 01:07:00] [INFO] Broadcasted message to 0 clients
 [2025-08-12 01:07:00] [INFO] Client disconnected. Remaining clients: 0
+[2025-08-12 01:47:41] [INFO] TCP server started successfully on port 8000
+[2025-08-12 01:51:05] [INFO] New client connected. Total clients: 1
+[2025-08-12 01:51:05] [DEBUG] Received message: {"id":"54154784-5eb7-47c3-ad9f-aadda7fbd2d7","from":"SYSTEM","text":"Joe Wise joined the chat"}
+[2025-08-12 01:51:05] [DEBUG] Broadcasting to 1 total clients
+[2025-08-12 01:51:05] [INFO] Broadcasted message to 0 clients
+[2025-08-12 01:54:00] [DEBUG] Received message: {"id":"c682e8a3-5526-4081-8d29-c9bc07141544","from":"Joe Wise","text":"Hello, any body here?"}
+[2025-08-12 01:54:00] [DEBUG] Broadcasting to 1 total clients
+[2025-08-12 01:54:00] [INFO] Broadcasted message to 0 clients
+[2025-08-12 01:54:11] [INFO] New client connected. Total clients: 2
+[2025-08-12 01:54:12] [DEBUG] Received message: {"id":"ef1418c6-524f-4e04-8ebb-f40f134dad0d","from":"SYSTEM","text":"Ivan joined the chat"}
+[2025-08-12 01:54:12] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:54:12] [DEBUG] Message sent to client 1
+[2025-08-12 01:54:12] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:54:21] [DEBUG] Received message: {"id":"9622624f-c72f-4c42-842c-bab1c547c87f","from":"Ivan","text":"Hello"}
+[2025-08-12 01:54:21] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:54:21] [DEBUG] Message sent to client 1
+[2025-08-12 01:54:21] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:54:36] [DEBUG] Received message: {"id":"ebcd1942-b429-43c5-8107-e3b4d950e96b","from":"Joe Wise","text":"Hey man, whats up"}
+[2025-08-12 01:54:36] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:54:36] [DEBUG] Message sent to client 1
+[2025-08-12 01:54:36] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:54:51] [DEBUG] Received message: {"id":"0edefe23-4378-4a5f-89c9-8e7d3dc923df","from":"Ivan","text":"Just chilling man"}
+[2025-08-12 01:54:51] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:54:51] [DEBUG] Message sent to client 1
+[2025-08-12 01:54:51] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:55:01] [DEBUG] Received message: {"id":"40c3bd5c-8250-4e46-8fbe-45e83b7f4e9a","from":"Ivan","text":"What about you?"}
+[2025-08-12 01:55:01] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:55:01] [DEBUG] Message sent to client 1
+[2025-08-12 01:55:01] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:55:12] [INFO] New client connected. Total clients: 3
+[2025-08-12 01:55:12] [DEBUG] Received message: {"id":"2826776e-23b6-4d59-99d2-4699fa8f8e69","from":"SYSTEM","text":"Bright joined the chat"}
+[2025-08-12 01:55:12] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:55:12] [DEBUG] Message sent to client 1
+[2025-08-12 01:55:12] [DEBUG] Message sent to client 2
+[2025-08-12 01:55:12] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:55:24] [DEBUG] Received message: {"id":"fc73e866-6bc3-4d11-8c2b-5ccc66be9ab4","from":"Joe Wise","text":"I\u0027m good man"}
+[2025-08-12 01:55:24] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:55:24] [DEBUG] Message sent to client 1
+[2025-08-12 01:55:24] [DEBUG] Message sent to client 2
+[2025-08-12 01:55:24] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:55:45] [DEBUG] Received message: {"id":"4927b636-eff4-4590-b8a0-da61a11ea2dd","from":"Ivan","text":"Hey, see who decided to join us"}
+[2025-08-12 01:55:45] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:55:45] [DEBUG] Message sent to client 1
+[2025-08-12 01:55:45] [DEBUG] Message sent to client 2
+[2025-08-12 01:55:45] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:56:02] [DEBUG] Received message: {"id":"ece15877-3dfa-4661-a196-797da0c5ea56","from":"Bright","text":"Bros what\u0027s up today?"}
+[2025-08-12 01:56:02] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:56:02] [DEBUG] Message sent to client 1
+[2025-08-12 01:56:02] [DEBUG] Message sent to client 2
+[2025-08-12 01:56:02] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:56:11] [DEBUG] Received message: {"id":"a6b87efd-25d3-463f-ae88-9c893fe106bd","from":"Bright","text":"What are you guys up to?"}
+[2025-08-12 01:56:11] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:56:11] [DEBUG] Message sent to client 1
+[2025-08-12 01:56:11] [DEBUG] Message sent to client 2
+[2025-08-12 01:56:11] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:56:46] [DEBUG] Received message: {"id":"796cbab3-77a4-4211-aac6-3819985f107a","from":"Joe Wise","text":"Nothing bro....jsut chatting man"}
+[2025-08-12 01:56:46] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:56:46] [DEBUG] Message sent to client 1
+[2025-08-12 01:56:46] [DEBUG] Message sent to client 2
+[2025-08-12 01:56:46] [INFO] Broadcasted message to 2 clients
+[2025-08-12 02:03:02] [DEBUG] Received message: {"id":"4ea5d8e1-2c3a-472f-817c-103a1b66f45d","from":"SYSTEM","text":"Joe Wise left the chat"}
+[2025-08-12 02:03:02] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 02:03:02] [DEBUG] Message sent to client 1
+[2025-08-12 02:03:02] [DEBUG] Message sent to client 2
+[2025-08-12 02:03:02] [INFO] Broadcasted message to 2 clients
+[2025-08-12 02:03:02] [INFO] Client disconnected. Remaining clients: 2
