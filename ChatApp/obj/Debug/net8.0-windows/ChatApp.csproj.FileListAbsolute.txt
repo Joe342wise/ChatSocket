@@ -1,0 +1,17 @@
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.exe
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.dll.config
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.deps.json
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.runtimeconfig.json
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.dll
+C:\Projects\C#Assignment\ChatSocket\ChatApp\bin\Debug\net8.0-windows\ChatApp.pdb
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.Form1.resources
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.GenerateResource.cache
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfoInputs.cache
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfo.cs
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.dll
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\refint\ChatApp.dll
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.pdb
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ChatApp.genruntimeconfig.cache
+C:\Projects\C#Assignment\ChatSocket\ChatApp\obj\Debug\net8.0-windows\ref\ChatApp.dll
