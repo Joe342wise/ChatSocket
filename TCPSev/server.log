@@ -1,0 +1,129 @@
+[2025-08-11 21:13:32] [INFO] TCP server started successfully on port 8000
+[2025-08-11 21:14:56] [INFO] New client connected. Total clients: 1
+[2025-08-11 21:14:56] [DEBUG] Received message: {"id":"3747582c-f28c-4514-8859-c74154a31cfb","from":"SYSTEM","text":"Joseph joined the chat"}
+[2025-08-11 21:16:19] [INFO] New client connected. Total clients: 2
+[2025-08-11 21:16:19] [DEBUG] Received message: {"id":"371b3190-94b7-4d7e-8180-f36442842ccf","from":"SYSTEM","text":"Roy joined the chat"}
+[2025-08-11 21:16:44] [INFO] New client connected. Total clients: 3
+[2025-08-11 21:16:44] [DEBUG] Received message: {"id":"2f8a7efb-2918-44fb-9909-e2ca9fecee7a","from":"SYSTEM","text":"Bernard joined the chat"}
+[2025-08-11 21:16:50] [DEBUG] Received message: {"id":"83389f7b-37e2-4276-af5a-c83e9d51afc4","from":"Bernard","text":"Hello"}
+[2025-08-11 21:17:08] [INFO] New client connected. Total clients: 4
+[2025-08-11 21:17:09] [DEBUG] Received message: {"id":"091231b2-0832-4cfb-85cd-73cf33be04cf","from":"SYSTEM","text":"Mark joined the chat"}
+[2025-08-11 21:17:19] [DEBUG] Received message: {"id":"e89d3a2b-8fa6-4203-b295-d400f81cfd4a","from":"SYSTEM","text":"Joseph left the chat"}
+[2025-08-11 21:17:19] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-11 21:17:19] [INFO] Client disconnected. Remaining clients: 3
+[2025-08-11 21:17:20] [INFO] New client connected. Total clients: 4
+[2025-08-11 21:17:20] [DEBUG] Received message: {"id":"54847999-1c38-48ae-baaf-bb9fcc5efce1","from":"SYSTEM","text":"Joseph joined the chat"}
+[2025-08-11 21:17:22] [DEBUG] Received message: {"id":"7a270996-77c8-40f0-b365-66605a8a1780","from":"SYSTEM","text":"Mark left the chat"}
+[2025-08-11 21:17:22] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-11 21:17:22] [INFO] Client disconnected. Remaining clients: 3
+[2025-08-11 21:17:22] [INFO] New client connected. Total clients: 4
+[2025-08-11 21:17:22] [DEBUG] Received message: {"id":"4ce7d577-5244-4c85-a610-8f82489d0160","from":"SYSTEM","text":"Mark joined the chat"}
+[2025-08-11 21:17:25] [DEBUG] Received message: {"id":"4cb30658-d7fc-40a5-97df-d8380a62f13b","from":"Mark","text":"d"}
+[2025-08-11 21:17:54] [DEBUG] Received message: {"id":"f90d549d-312e-4852-b82a-899b52320fff","from":"SYSTEM","text":"Joseph left the chat"}
+[2025-08-11 21:17:54] [INFO] Client disconnected. Remaining clients: 3
+[2025-08-11 21:17:56] [DEBUG] Received message: {"id":"6fb5190b-48e9-470c-88eb-a63c4289ef42","from":"SYSTEM","text":"Roy left the chat"}
+[2025-08-11 21:17:56] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-11 21:17:56] [INFO] Client disconnected. Remaining clients: 2
+[2025-08-11 21:17:57] [DEBUG] Received message: {"id":"7a4dafef-584b-40e4-8c51-7940ac00b28e","from":"SYSTEM","text":"Bernard left the chat"}
+[2025-08-11 21:17:57] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-11 21:17:57] [INFO] Client disconnected. Remaining clients: 1
+[2025-08-11 21:17:59] [DEBUG] Received message: {"id":"a8c4a587-8a1d-4523-9fbc-6f7897d8bdba","from":"SYSTEM","text":"Mark left the chat"}
+[2025-08-11 21:17:59] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-11 21:17:59] [INFO] Client disconnected. Remaining clients: 0
+[2025-08-12 00:14:13] [INFO] TCP server started successfully on port 8000
+[2025-08-12 00:14:24] [INFO] New client connected. Total clients: 1
+[2025-08-12 00:14:24] [DEBUG] Received message: {"id":"8d0a3b09-e9d2-45aa-baba-5d90036439f2","from":"SYSTEM","text":"joe joined the chat"}
+[2025-08-12 00:16:51] [INFO] New client connected. Total clients: 2
+[2025-08-12 00:16:52] [DEBUG] Received message: {"id":"6b2a312f-9688-401a-8ede-67e82fb75c94","from":"SYSTEM","text":"wise joined the chat"}
+[2025-08-12 00:17:07] [INFO] New client connected. Total clients: 3
+[2025-08-12 00:17:07] [DEBUG] Received message: {"id":"1eba28ac-be31-42c7-9cb5-cc00d894fb65","from":"SYSTEM","text":"joe joined the chat"}
+[2025-08-12 00:17:26] [INFO] New client connected. Total clients: 4
+[2025-08-12 00:17:26] [DEBUG] Received message: {"id":"e2c52b87-f20a-4cea-960e-837758199ef3","from":"SYSTEM","text":"joe joined the chat"}
+[2025-08-12 00:17:27] [DEBUG] Received message: {"id":"ab48f582-59c6-4bb3-80fb-cafa1d9004ad","from":"joe","text":"Hello"}
+[2025-08-12 00:17:31] [INFO] New client connected. Total clients: 5
+[2025-08-12 00:17:31] [DEBUG] Received message: {"id":"1ffcc950-f863-4158-ad89-4797c88f9ec8","from":"SYSTEM","text":"wise joined the chat"}
+[2025-08-12 00:17:47] [INFO] New client connected. Total clients: 6
+[2025-08-12 00:17:47] [DEBUG] Received message: {"id":"8a65e2d8-f90b-4626-b228-04803afe2800","from":"SYSTEM","text":"wise joined the chat"}
+[2025-08-12 00:17:48] [INFO] New client connected. Total clients: 7
+[2025-08-12 00:17:48] [DEBUG] Received message: {"id":"fad6b3d6-f721-4e78-a9d6-78f499125b1d","from":"SYSTEM","text":"joe joined the chat"}
+[2025-08-12 00:17:49] [DEBUG] Received message: {"id":"3439a023-cd42-4732-9b65-fa47947a0392","from":"joe","text":"Hello"}
+[2025-08-12 00:20:11] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:20:11] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:20:11] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:20:11] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:20:11] [INFO] Client disconnected. Remaining clients: 6
+[2025-08-12 00:20:11] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:20:11] [INFO] Client disconnected. Remaining clients: 5
+[2025-08-12 00:20:11] [INFO] Client disconnected. Remaining clients: 4
+[2025-08-12 00:20:11] [INFO] Client disconnected. Remaining clients: 3
+[2025-08-12 00:20:11] [INFO] Client disconnected. Remaining clients: 2
+[2025-08-12 00:33:47] [DEBUG] Received message: {"id":"bd9877b2-f11b-4cde-bd4d-54fa4f3b3f09","from":"SYSTEM","text":"joe left the chat"}
+[2025-08-12 00:33:47] [INFO] Client disconnected. Remaining clients: 1
+[2025-08-12 00:33:52] [DEBUG] Received message: {"id":"041ff7fd-112f-4f98-9b06-6dffcbf6a671","from":"SYSTEM","text":"wise left the chat"}
+[2025-08-12 00:33:52] [WARNING] Network error with client: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-08-12 00:33:52] [INFO] Client disconnected. Remaining clients: 0
+[2025-08-12 00:38:11] [INFO] TCP server started successfully on port 8000
+[2025-08-12 00:39:03] [INFO] New client connected. Total clients: 1
+[2025-08-12 00:39:03] [DEBUG] Received message: {"id":"493bb07a-da52-4b7d-9f07-036d599a9875","from":"SYSTEM","text":"Ben joined the chat"}
+[2025-08-12 00:39:15] [INFO] New client connected. Total clients: 2
+[2025-08-12 00:39:15] [DEBUG] Received message: {"id":"99cfede8-15c5-4bf0-8636-88025ff9b03e","from":"SYSTEM","text":"Joe joined the chat"}
+[2025-08-12 00:39:22] [DEBUG] Received message: {"id":"362ebc9c-8704-409a-801d-7904358aae9e","from":"Ben","text":"Hello"}
+[2025-08-12 00:39:30] [DEBUG] Received message: {"id":"314b22ad-3b47-44fa-b2fa-6cf5620b340b","from":"Joe","text":"Hi"}
+[2025-08-12 00:40:15] [DEBUG] Received message: {"id":"ecaa85b6-34ab-4ac6-915e-23528f1cfe12","from":"SYSTEM","text":"Ben left the chat"}
+[2025-08-12 00:40:15] [INFO] Client disconnected. Remaining clients: 1
+[2025-08-12 00:40:18] [DEBUG] Received message: {"id":"784ed2c9-a1c4-4280-93fc-7240e5edd18d","from":"SYSTEM","text":"Joe left the chat"}
+[2025-08-12 00:40:18] [INFO] Client disconnected. Remaining clients: 0
+[2025-08-12 01:04:22] [INFO] TCP server started successfully on port 8000
+[2025-08-12 01:05:20] [INFO] New client connected. Total clients: 1
+[2025-08-12 01:05:20] [DEBUG] Received message: {"id":"0ec5c56c-a410-440c-9614-b13b17ea5fac","from":"SYSTEM","text":"Joe joined the chat"}
+[2025-08-12 01:05:20] [DEBUG] Broadcasting to 1 total clients
+[2025-08-12 01:05:20] [INFO] Broadcasted message to 0 clients
+[2025-08-12 01:05:27] [INFO] New client connected. Total clients: 2
+[2025-08-12 01:05:27] [DEBUG] Received message: {"id":"4a97da7d-0feb-43e1-aa8d-102e0152c208","from":"SYSTEM","text":"Ben joined the chat"}
+[2025-08-12 01:05:27] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:05:27] [DEBUG] Message sent to client 1
+[2025-08-12 01:05:27] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:05:37] [DEBUG] Received message: {"id":"6546d388-ec7b-43cf-94e5-6d1ca2b86315","from":"Joe","text":"Hello"}
+[2025-08-12 01:05:37] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:05:37] [DEBUG] Message sent to client 1
+[2025-08-12 01:05:37] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:05:48] [DEBUG] Received message: {"id":"0c37c573-98d4-4222-8fb1-65229e14e78c","from":"Ben","text":"Hi"}
+[2025-08-12 01:05:48] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:05:48] [DEBUG] Message sent to client 1
+[2025-08-12 01:05:48] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:06:12] [INFO] New client connected. Total clients: 3
+[2025-08-12 01:06:12] [DEBUG] Received message: {"id":"56c9b83b-b65d-45f5-aae9-177179a1bb47","from":"SYSTEM","text":"liv joined the chat"}
+[2025-08-12 01:06:12] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:06:12] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:12] [DEBUG] Message sent to client 2
+[2025-08-12 01:06:12] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:06:16] [DEBUG] Received message: {"id":"c9aabb9d-c983-4b06-aee3-165b0427ce8c","from":"liv","text":"kkk"}
+[2025-08-12 01:06:16] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:06:16] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:16] [DEBUG] Message sent to client 2
+[2025-08-12 01:06:16] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:06:22] [DEBUG] Received message: {"id":"ce4e2a7c-93d2-47a3-8904-6feca42e9062","from":"Ben","text":"pppp"}
+[2025-08-12 01:06:22] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:06:22] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:22] [DEBUG] Message sent to client 2
+[2025-08-12 01:06:22] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:06:28] [DEBUG] Received message: {"id":"b4ecd6e2-276f-4606-84c8-9eb203b1e854","from":"Joe","text":"cccc"}
+[2025-08-12 01:06:28] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:06:28] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:28] [DEBUG] Message sent to client 2
+[2025-08-12 01:06:28] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:06:43] [DEBUG] Received message: {"id":"67f6a8c3-3b7d-4439-82d3-e1d7d38e2c96","from":"SYSTEM","text":"liv left the chat"}
+[2025-08-12 01:06:43] [DEBUG] Broadcasting to 3 total clients
+[2025-08-12 01:06:43] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:43] [DEBUG] Message sent to client 2
+[2025-08-12 01:06:43] [INFO] Broadcasted message to 2 clients
+[2025-08-12 01:06:43] [INFO] Client disconnected. Remaining clients: 2
+[2025-08-12 01:06:56] [DEBUG] Received message: {"id":"1b640f0a-bc8c-425b-acad-76b249efee91","from":"SYSTEM","text":"Ben left the chat"}
+[2025-08-12 01:06:56] [DEBUG] Broadcasting to 2 total clients
+[2025-08-12 01:06:56] [DEBUG] Message sent to client 1
+[2025-08-12 01:06:56] [INFO] Broadcasted message to 1 clients
+[2025-08-12 01:06:56] [INFO] Client disconnected. Remaining clients: 1
+[2025-08-12 01:07:00] [DEBUG] Received message: {"id":"bd0b7960-54f7-4aeb-89e3-1f6f7cfa1228","from":"SYSTEM","text":"Joe left the chat"}
+[2025-08-12 01:07:00] [DEBUG] Broadcasting to 1 total clients
+[2025-08-12 01:07:00] [INFO] Broadcasted message to 0 clients
+[2025-08-12 01:07:00] [INFO] Client disconnected. Remaining clients: 0

@@ -1,0 +1,14 @@
+C:\Projects\C#Assignment\ChatSocket\TCPSev\bin\Debug\net8.0\TCPSev.exe
+C:\Projects\C#Assignment\ChatSocket\TCPSev\bin\Debug\net8.0\TCPSev.deps.json
+C:\Projects\C#Assignment\ChatSocket\TCPSev\bin\Debug\net8.0\TCPSev.runtimeconfig.json
+C:\Projects\C#Assignment\ChatSocket\TCPSev\bin\Debug\net8.0\TCPSev.dll
+C:\Projects\C#Assignment\ChatSocket\TCPSev\bin\Debug\net8.0\TCPSev.pdb
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.AssemblyInfoInputs.cache
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.AssemblyInfo.cs
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.csproj.CoreCompileInputs.cache
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.dll
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\refint\TCPSev.dll
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.pdb
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\TCPSev.genruntimeconfig.cache
+C:\Projects\C#Assignment\ChatSocket\TCPSev\obj\Debug\net8.0\ref\TCPSev.dll
